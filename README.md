@@ -1,4 +1,5 @@
 # hellovue
+A very basic Hello World project in Vue
 
 ## Project setup
 ```
